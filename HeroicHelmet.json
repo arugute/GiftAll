@@ -1,0 +1,1580 @@
+{
+  "gift": {
+    "name": "Heroic Helmet",
+    "id": "5895328365971244193"
+  },
+  "models": [
+    {
+      "name": "Gladiator",
+      "rarity": 2.5
+    },
+    {
+      "name": "Ladybug",
+      "rarity": 2
+    },
+    {
+      "name": "Liberty",
+      "rarity": 2.5
+    },
+    {
+      "name": "King Leonidas",
+      "rarity": 1.5
+    },
+    {
+      "name": "Dynamo",
+      "rarity": 1
+    },
+    {
+      "name": "Son of Ares",
+      "rarity": 2
+    },
+    {
+      "name": "Old Leather",
+      "rarity": 2.5
+    },
+    {
+      "name": "Chainsaw",
+      "rarity": 1.5
+    },
+    {
+      "name": "Frozen Aegis",
+      "rarity": 1
+    },
+    {
+      "name": "King Midas",
+      "rarity": 2
+    },
+    {
+      "name": "Watermelon",
+      "rarity": 2
+    },
+    {
+      "name": "Mercurial",
+      "rarity": 2.5
+    },
+    {
+      "name": "Ancient Gold",
+      "rarity": 3
+    },
+    {
+      "name": "Cyberpunk",
+      "rarity": 1
+    },
+    {
+      "name": "Hippotigris",
+      "rarity": 2.5
+    },
+    {
+      "name": "Centurion",
+      "rarity": 2.5
+    },
+    {
+      "name": "Skeleton",
+      "rarity": 2
+    },
+    {
+      "name": "Atlantis",
+      "rarity": 2
+    },
+    {
+      "name": "Maya Warrior",
+      "rarity": 1.5
+    },
+    {
+      "name": "Praetorian",
+      "rarity": 2
+    },
+    {
+      "name": "Galea Alba",
+      "rarity": 2
+    },
+    {
+      "name": "Milk Legend",
+      "rarity": 2.5
+    },
+    {
+      "name": "Athena",
+      "rarity": 3
+    },
+    {
+      "name": "Quackus",
+      "rarity": 2
+    },
+    {
+      "name": "Biker Warrior",
+      "rarity": 2
+    },
+    {
+      "name": "Desert Camo",
+      "rarity": 3
+    },
+    {
+      "name": "Blue Parrot",
+      "rarity": 2
+    },
+    {
+      "name": "Punk Skull",
+      "rarity": 1
+    },
+    {
+      "name": "Mythic Green",
+      "rarity": 2.5
+    },
+    {
+      "name": "Pancake",
+      "rarity": 2
+    },
+    {
+      "name": "Neon Legion",
+      "rarity": 1.5
+    },
+    {
+      "name": "Pickelhaube",
+      "rarity": 1
+    },
+    {
+      "name": "Steampunk",
+      "rarity": 2
+    },
+    {
+      "name": "Inferno",
+      "rarity": 1.5
+    },
+    {
+      "name": "Hard Rock",
+      "rarity": 1
+    },
+    {
+      "name": "Aphrodite",
+      "rarity": 2.5
+    },
+    {
+      "name": "Bengal Tiger",
+      "rarity": 2.5
+    },
+    {
+      "name": "Chieftain",
+      "rarity": 2.5
+    },
+    {
+      "name": "Hard Hat",
+      "rarity": 2.5
+    },
+    {
+      "name": "Happy Frog",
+      "rarity": 2
+    },
+    {
+      "name": "Black Thorn",
+      "rarity": 2
+    },
+    {
+      "name": "Equalizer",
+      "rarity": 1
+    },
+    {
+      "name": "Aegean Sea",
+      "rarity": 3
+    },
+    {
+      "name": "Nekonidas",
+      "rarity": 1.5
+    },
+    {
+      "name": "Giraffe",
+      "rarity": 2
+    },
+    {
+      "name": "Unicorn",
+      "rarity": 1.5
+    },
+    {
+      "name": "Phoenix",
+      "rarity": 2.5
+    },
+    {
+      "name": "Spartan",
+      "rarity": 2.5
+    },
+    {
+      "name": "Pale Guard",
+      "rarity": 2
+    },
+    {
+      "name": "Bounty Hunter",
+      "rarity": 1.5
+    }
+  ],
+  "backdrops": [
+    {
+      "name": "Lemongrass",
+      "rarity": 1
+    },
+    {
+      "name": "Pistachio",
+      "rarity": 1.2
+    },
+    {
+      "name": "Chestnut",
+      "rarity": 1.2
+    },
+    {
+      "name": "Silver Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Lavender",
+      "rarity": 1.5
+    },
+    {
+      "name": "Seal Brown",
+      "rarity": 1
+    },
+    {
+      "name": "Fandango",
+      "rarity": 1
+    },
+    {
+      "name": "Mystic Pearl",
+      "rarity": 1.2
+    },
+    {
+      "name": "Mexican Pink",
+      "rarity": 1.2
+    },
+    {
+      "name": "Cobalt Blue",
+      "rarity": 1.5
+    },
+    {
+      "name": "Satin Gold",
+      "rarity": 1
+    },
+    {
+      "name": "Azure Blue",
+      "rarity": 1
+    },
+    {
+      "name": "Purple",
+      "rarity": 1.2
+    },
+    {
+      "name": "Jade Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Camo Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Khaki Green",
+      "rarity": 1
+    },
+    {
+      "name": "Pacific Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Onyx Black",
+      "rarity": 1.2
+    },
+    {
+      "name": "Dark Green",
+      "rarity": 1
+    },
+    {
+      "name": "Burnt Sienna",
+      "rarity": 1
+    },
+    {
+      "name": "Orange",
+      "rarity": 1
+    },
+    {
+      "name": "Rosewood",
+      "rarity": 1
+    },
+    {
+      "name": "Burgundy",
+      "rarity": 1.2
+    },
+    {
+      "name": "French Violet",
+      "rarity": 1
+    },
+    {
+      "name": "Malachite",
+      "rarity": 1.2
+    },
+    {
+      "name": "Ranger Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Tomato",
+      "rarity": 1.5
+    },
+    {
+      "name": "Caramel",
+      "rarity": 1.5
+    },
+    {
+      "name": "Shamrock Green",
+      "rarity": 1
+    },
+    {
+      "name": "Aquamarine",
+      "rarity": 1
+    },
+    {
+      "name": "Amber",
+      "rarity": 1
+    },
+    {
+      "name": "Desert Sand",
+      "rarity": 1.2
+    },
+    {
+      "name": "Pine Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Electric Purple",
+      "rarity": 1.5
+    },
+    {
+      "name": "Gunship Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Steel Grey",
+      "rarity": 1.2
+    },
+    {
+      "name": "Carrot Juice",
+      "rarity": 1.5
+    },
+    {
+      "name": "Ivory White",
+      "rarity": 1.2
+    },
+    {
+      "name": "Old Gold",
+      "rarity": 1.2
+    },
+    {
+      "name": "Gunmetal",
+      "rarity": 1.5
+    },
+    {
+      "name": "Coral Red",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mint Green",
+      "rarity": 1
+    },
+    {
+      "name": "Cappuccino",
+      "rarity": 1.2
+    },
+    {
+      "name": "Emerald",
+      "rarity": 1.5
+    },
+    {
+      "name": "Black",
+      "rarity": 1.5
+    },
+    {
+      "name": "Roman Silver",
+      "rarity": 1.5
+    },
+    {
+      "name": "Indigo Dye",
+      "rarity": 1
+    },
+    {
+      "name": "Tactical Pine",
+      "rarity": 1.2
+    },
+    {
+      "name": "Light Olive",
+      "rarity": 1.5
+    },
+    {
+      "name": "Midnight Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Persimmon",
+      "rarity": 1.5
+    },
+    {
+      "name": "Sapphire",
+      "rarity": 1.5
+    },
+    {
+      "name": "Platinum",
+      "rarity": 1
+    },
+    {
+      "name": "Neon Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Raspberry",
+      "rarity": 1.2
+    },
+    {
+      "name": "Celtic Blue",
+      "rarity": 1
+    },
+    {
+      "name": "Carmine",
+      "rarity": 1.5
+    },
+    {
+      "name": "Fire Engine",
+      "rarity": 1
+    },
+    {
+      "name": "English Violet",
+      "rarity": 1.2
+    },
+    {
+      "name": "Navy Blue",
+      "rarity": 1.5
+    },
+    {
+      "name": "Moonstone",
+      "rarity": 1.2
+    },
+    {
+      "name": "French Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Copper",
+      "rarity": 1.5
+    },
+    {
+      "name": "Battleship Grey",
+      "rarity": 1.2
+    },
+    {
+      "name": "Pacific Cyan",
+      "rarity": 1.5
+    },
+    {
+      "name": "Feldgrau",
+      "rarity": 1
+    },
+    {
+      "name": "Dark Lilac",
+      "rarity": 1.2
+    },
+    {
+      "name": "Rifle Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Turquoise",
+      "rarity": 1.2
+    },
+    {
+      "name": "Cyberpunk",
+      "rarity": 1
+    },
+    {
+      "name": "Chocolate",
+      "rarity": 1.5
+    },
+    {
+      "name": "Pure Gold",
+      "rarity": 1
+    },
+    {
+      "name": "Grape",
+      "rarity": 1.2
+    },
+    {
+      "name": "Strawberry",
+      "rarity": 1.2
+    },
+    {
+      "name": "Sky Blue",
+      "rarity": 1.5
+    },
+    {
+      "name": "Deep Cyan",
+      "rarity": 1.5
+    },
+    {
+      "name": "Hunter Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mustard",
+      "rarity": 1.2
+    },
+    {
+      "name": "Electric Indigo",
+      "rarity": 1.5
+    },
+    {
+      "name": "Marine Blue",
+      "rarity": 1.2
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Evil Dragon",
+      "rarity": 0.4
+    },
+    {
+      "name": "Paper Crane",
+      "rarity": 0.4
+    },
+    {
+      "name": "Spider Web",
+      "rarity": 0.2
+    },
+    {
+      "name": "Wreath",
+      "rarity": 0.4
+    },
+    {
+      "name": "Cactus",
+      "rarity": 0.5
+    },
+    {
+      "name": "Plume",
+      "rarity": 0.2
+    },
+    {
+      "name": "Flag",
+      "rarity": 0.5
+    },
+    {
+      "name": "Toy Bucket",
+      "rarity": 0.5
+    },
+    {
+      "name": "Fishing Hook",
+      "rarity": 0.5
+    },
+    {
+      "name": "Hersir",
+      "rarity": 0.4
+    },
+    {
+      "name": "Cash",
+      "rarity": 0.4
+    },
+    {
+      "name": "Mafdet",
+      "rarity": 0.5
+    },
+    {
+      "name": "Novus Ordo",
+      "rarity": 0.4
+    },
+    {
+      "name": "Neptune",
+      "rarity": 0.4
+    },
+    {
+      "name": "Nordic Wolf",
+      "rarity": 0.5
+    },
+    {
+      "name": "Lion of Babylon",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bowler Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Cricket Helmet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bicorne",
+      "rarity": 0.2
+    },
+    {
+      "name": "Geisha Fan",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sword",
+      "rarity": 0.2
+    },
+    {
+      "name": "Beer",
+      "rarity": 0.2
+    },
+    {
+      "name": "Conch",
+      "rarity": 0.4
+    },
+    {
+      "name": "Lemon",
+      "rarity": 0.5
+    },
+    {
+      "name": "Pegasus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Royal Crown",
+      "rarity": 0.5
+    },
+    {
+      "name": "Tsunami",
+      "rarity": 0.5
+    },
+    {
+      "name": "Battle Axe",
+      "rarity": 0.4
+    },
+    {
+      "name": "Obon Lantern",
+      "rarity": 0.5
+    },
+    {
+      "name": "Rook",
+      "rarity": 0.5
+    },
+    {
+      "name": "Imperial Lion",
+      "rarity": 0.2
+    },
+    {
+      "name": "Shuriken",
+      "rarity": 0.4
+    },
+    {
+      "name": "Hot Matcha",
+      "rarity": 0.4
+    },
+    {
+      "name": "Fleur-de-lis",
+      "rarity": 0.5
+    },
+    {
+      "name": "Silver Ibis",
+      "rarity": 0.2
+    },
+    {
+      "name": "Pickaxe",
+      "rarity": 0.4
+    },
+    {
+      "name": "Bug",
+      "rarity": 0.5
+    },
+    {
+      "name": "Tiki Mask",
+      "rarity": 0.5
+    },
+    {
+      "name": "Kite",
+      "rarity": 0.2
+    },
+    {
+      "name": "Dice",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ribeye Steak",
+      "rarity": 0.2
+    },
+    {
+      "name": "Nigiri",
+      "rarity": 0.2
+    },
+    {
+      "name": "Shako",
+      "rarity": 0.5
+    },
+    {
+      "name": "Oak Leaf",
+      "rarity": 0.2
+    },
+    {
+      "name": "Glasses",
+      "rarity": 0.4
+    },
+    {
+      "name": "Kashket",
+      "rarity": 0.5
+    },
+    {
+      "name": "Magic Vial",
+      "rarity": 0.5
+    },
+    {
+      "name": "Warhorse",
+      "rarity": 0.2
+    },
+    {
+      "name": "Jörmungandr",
+      "rarity": 0.4
+    },
+    {
+      "name": "Birthday Cake",
+      "rarity": 0.4
+    },
+    {
+      "name": "Gua Pi Mao",
+      "rarity": 0.4
+    },
+    {
+      "name": "Cobra",
+      "rarity": 0.5
+    },
+    {
+      "name": "Shinto Shrine",
+      "rarity": 0.4
+    },
+    {
+      "name": "Sea Dragon",
+      "rarity": 0.5
+    },
+    {
+      "name": "Crystal Ball",
+      "rarity": 0.2
+    },
+    {
+      "name": "Viking Shield",
+      "rarity": 0.2
+    },
+    {
+      "name": "White Deer",
+      "rarity": 0.4
+    },
+    {
+      "name": "Doberman",
+      "rarity": 0.5
+    },
+    {
+      "name": "Book",
+      "rarity": 0.2
+    },
+    {
+      "name": "Feather",
+      "rarity": 0.4
+    },
+    {
+      "name": "Lion King",
+      "rarity": 0.2
+    },
+    {
+      "name": "Crystal",
+      "rarity": 0.2
+    },
+    {
+      "name": "Trophy",
+      "rarity": 0.4
+    },
+    {
+      "name": "Eikthyrnir",
+      "rarity": 0.5
+    },
+    {
+      "name": "Academic Cap",
+      "rarity": 0.2
+    },
+    {
+      "name": "Vortex",
+      "rarity": 0.5
+    },
+    {
+      "name": "Winter Hat",
+      "rarity": 0.5
+    },
+    {
+      "name": "Aztec Totem",
+      "rarity": 0.4
+    },
+    {
+      "name": "Mountain Goat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Spellbook",
+      "rarity": 0.5
+    },
+    {
+      "name": "Two Katanas",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bascinet",
+      "rarity": 0.5
+    },
+    {
+      "name": "Musical Note",
+      "rarity": 0.2
+    },
+    {
+      "name": "Wasp",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bottlenose",
+      "rarity": 0.5
+    },
+    {
+      "name": "Sakura Flower",
+      "rarity": 0.5
+    },
+    {
+      "name": "Clubs",
+      "rarity": 0.2
+    },
+    {
+      "name": "Unicorn",
+      "rarity": 0.5
+    },
+    {
+      "name": "The Eye",
+      "rarity": 0.4
+    },
+    {
+      "name": "Sun Mountain",
+      "rarity": 0.4
+    },
+    {
+      "name": "Viking",
+      "rarity": 0.5
+    },
+    {
+      "name": "Yogi Shaman",
+      "rarity": 0.4
+    },
+    {
+      "name": "Illuminati",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bread",
+      "rarity": 0.4
+    },
+    {
+      "name": "Pyramid",
+      "rarity": 0.5
+    },
+    {
+      "name": "Trinity Knot",
+      "rarity": 0.5
+    },
+    {
+      "name": "Crusader Cross",
+      "rarity": 0.5
+    },
+    {
+      "name": "Beret",
+      "rarity": 0.2
+    },
+    {
+      "name": "Wise Raven",
+      "rarity": 0.4
+    },
+    {
+      "name": "Oculus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ouroboros",
+      "rarity": 0.5
+    },
+    {
+      "name": "Octopus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Okami Wolf",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bull of Heaven",
+      "rarity": 0.5
+    },
+    {
+      "name": "Twin Koi",
+      "rarity": 0.5
+    },
+    {
+      "name": "Garden Pot",
+      "rarity": 0.2
+    },
+    {
+      "name": "Yin-Yang",
+      "rarity": 0.2
+    },
+    {
+      "name": "Pirate Scull",
+      "rarity": 0.4
+    },
+    {
+      "name": "Wolf Rage",
+      "rarity": 0.5
+    },
+    {
+      "name": "Money Bag",
+      "rarity": 0.5
+    },
+    {
+      "name": "Cow Skull",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ice Pop",
+      "rarity": 0.5
+    },
+    {
+      "name": "Moon Eagle",
+      "rarity": 0.5
+    },
+    {
+      "name": "Legionary",
+      "rarity": 0.4
+    },
+    {
+      "name": "Tetsubin",
+      "rarity": 0.4
+    },
+    {
+      "name": "Clover",
+      "rarity": 0.5
+    },
+    {
+      "name": "Monstera",
+      "rarity": 0.4
+    },
+    {
+      "name": "Star",
+      "rarity": 0.5
+    },
+    {
+      "name": "PC Mouse",
+      "rarity": 0.5
+    },
+    {
+      "name": "Pizza Slice",
+      "rarity": 0.5
+    },
+    {
+      "name": "Champagne",
+      "rarity": 0.2
+    },
+    {
+      "name": "Wepwawet",
+      "rarity": 0.4
+    },
+    {
+      "name": "Ladybug",
+      "rarity": 0.2
+    },
+    {
+      "name": "Fish Skeleton",
+      "rarity": 0.5
+    },
+    {
+      "name": "Trickster Fox",
+      "rarity": 0.5
+    },
+    {
+      "name": "Maple",
+      "rarity": 0.2
+    },
+    {
+      "name": "Flying Dragon",
+      "rarity": 0.2
+    },
+    {
+      "name": "Rhino Warrior",
+      "rarity": 0.2
+    },
+    {
+      "name": "Fenrir",
+      "rarity": 0.5
+    },
+    {
+      "name": "Carrot",
+      "rarity": 0.5
+    },
+    {
+      "name": "Ram of Amun",
+      "rarity": 0.5
+    },
+    {
+      "name": "Mountain Lion",
+      "rarity": 0.4
+    },
+    {
+      "name": "Totem Bear",
+      "rarity": 0.5
+    },
+    {
+      "name": "Paw Print",
+      "rarity": 0.2
+    },
+    {
+      "name": "Heraldic Lily",
+      "rarity": 0.5
+    },
+    {
+      "name": "Cocktail",
+      "rarity": 0.5
+    },
+    {
+      "name": "Coin",
+      "rarity": 0.5
+    },
+    {
+      "name": "Teru Bōzu",
+      "rarity": 0.4
+    },
+    {
+      "name": "Hand of God",
+      "rarity": 0.2
+    },
+    {
+      "name": "Light Bulb",
+      "rarity": 0.2
+    },
+    {
+      "name": "Fried Egg",
+      "rarity": 0.5
+    },
+    {
+      "name": "Piggy Bank",
+      "rarity": 0.4
+    },
+    {
+      "name": "Heart",
+      "rarity": 0.4
+    },
+    {
+      "name": "Moon",
+      "rarity": 0.2
+    },
+    {
+      "name": "Celtic Wolf",
+      "rarity": 0.5
+    },
+    {
+      "name": "Shooting Star",
+      "rarity": 0.5
+    },
+    {
+      "name": "Ring",
+      "rarity": 0.4
+    },
+    {
+      "name": "Crab",
+      "rarity": 0.5
+    },
+    {
+      "name": "Genie Lamp",
+      "rarity": 0.4
+    },
+    {
+      "name": "Coat of Arms",
+      "rarity": 0.4
+    },
+    {
+      "name": "Candy",
+      "rarity": 0.2
+    },
+    {
+      "name": "Mustache",
+      "rarity": 0.2
+    },
+    {
+      "name": "Mask",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bonsai",
+      "rarity": 0.2
+    },
+    {
+      "name": "Owl",
+      "rarity": 0.4
+    },
+    {
+      "name": "UFO",
+      "rarity": 0.2
+    },
+    {
+      "name": "Jewel",
+      "rarity": 0.4
+    },
+    {
+      "name": "Palette",
+      "rarity": 0.4
+    },
+    {
+      "name": "Moon Face",
+      "rarity": 0.4
+    },
+    {
+      "name": "Egg",
+      "rarity": 0.2
+    },
+    {
+      "name": "Cherry",
+      "rarity": 0.5
+    },
+    {
+      "name": "Easter Bunny",
+      "rarity": 0.4
+    },
+    {
+      "name": "Twin Peaks",
+      "rarity": 0.5
+    },
+    {
+      "name": "Tribal Shield",
+      "rarity": 0.4
+    },
+    {
+      "name": "Bandage",
+      "rarity": 0.2
+    },
+    {
+      "name": "Moose Head",
+      "rarity": 0.4
+    },
+    {
+      "name": "Handset",
+      "rarity": 0.4
+    },
+    {
+      "name": "Ball",
+      "rarity": 0.5
+    },
+    {
+      "name": "Black Cat",
+      "rarity": 0.5
+    },
+    {
+      "name": "Greek Helmet",
+      "rarity": 0.4
+    },
+    {
+      "name": "Mayan Moth",
+      "rarity": 0.5
+    },
+    {
+      "name": "Double Axe",
+      "rarity": 0.5
+    },
+    {
+      "name": "Scarab",
+      "rarity": 0.4
+    },
+    {
+      "name": "Holy Grail",
+      "rarity": 0.4
+    },
+    {
+      "name": "Inca Sun",
+      "rarity": 0.4
+    },
+    {
+      "name": "Bastet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Breeze",
+      "rarity": 0.5
+    },
+    {
+      "name": "Coin Purse",
+      "rarity": 0.5
+    },
+    {
+      "name": "Full Moon",
+      "rarity": 0.5
+    },
+    {
+      "name": "Knight",
+      "rarity": 0.5
+    },
+    {
+      "name": "Ancient Urn",
+      "rarity": 0.2
+    },
+    {
+      "name": "Watching Sun",
+      "rarity": 0.4
+    },
+    {
+      "name": "Jolly Roger",
+      "rarity": 0.5
+    },
+    {
+      "name": "Sakura",
+      "rarity": 0.5
+    },
+    {
+      "name": "Celtic Cross",
+      "rarity": 0.5
+    },
+    {
+      "name": "Snail",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sauron",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bunny",
+      "rarity": 0.4
+    },
+    {
+      "name": "Valkyrie",
+      "rarity": 0.5
+    },
+    {
+      "name": "Morgenstern",
+      "rarity": 0.5
+    },
+    {
+      "name": "Toilet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Kitsune Mask",
+      "rarity": 0.5
+    },
+    {
+      "name": "Koala",
+      "rarity": 0.4
+    },
+    {
+      "name": "Griffon",
+      "rarity": 0.4
+    },
+    {
+      "name": "Visor",
+      "rarity": 0.4
+    },
+    {
+      "name": "Like",
+      "rarity": 0.2
+    },
+    {
+      "name": "Scorpion",
+      "rarity": 0.4
+    },
+    {
+      "name": "Thor Hammer",
+      "rarity": 0.4
+    },
+    {
+      "name": "Scissors",
+      "rarity": 0.5
+    },
+    {
+      "name": "Chest",
+      "rarity": 0.5
+    },
+    {
+      "name": "Anubis",
+      "rarity": 0.4
+    },
+    {
+      "name": "Carambola",
+      "rarity": 0.2
+    },
+    {
+      "name": "Turtle",
+      "rarity": 0.5
+    },
+    {
+      "name": "Peace Dove",
+      "rarity": 0.4
+    },
+    {
+      "name": "Golden Scarab",
+      "rarity": 0.5
+    },
+    {
+      "name": "Baby Bottle",
+      "rarity": 0.4
+    },
+    {
+      "name": "Wontons",
+      "rarity": 0.4
+    },
+    {
+      "name": "All-Seeing Eye",
+      "rarity": 0.4
+    },
+    {
+      "name": "Donut",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bishop",
+      "rarity": 0.5
+    },
+    {
+      "name": "Winged Helm",
+      "rarity": 0.2
+    },
+    {
+      "name": "Gem",
+      "rarity": 0.4
+    },
+    {
+      "name": "Sea Horse",
+      "rarity": 0.4
+    },
+    {
+      "name": "War Bonnet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Elf Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Fireman Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Alert Serpent",
+      "rarity": 0.4
+    },
+    {
+      "name": "Rose",
+      "rarity": 0.2
+    },
+    {
+      "name": "Wagasa",
+      "rarity": 0.5
+    },
+    {
+      "name": "Avocado",
+      "rarity": 0.2
+    },
+    {
+      "name": "Corn",
+      "rarity": 0.5
+    },
+    {
+      "name": "Kudu Totem",
+      "rarity": 0.4
+    },
+    {
+      "name": "Venetian Mask",
+      "rarity": 0.5
+    },
+    {
+      "name": "Acorn",
+      "rarity": 0.5
+    },
+    {
+      "name": "Skull",
+      "rarity": 0.5
+    },
+    {
+      "name": "Tree of Life",
+      "rarity": 0.5
+    },
+    {
+      "name": "Diamond",
+      "rarity": 0.5
+    },
+    {
+      "name": "Deerstalker",
+      "rarity": 0.2
+    },
+    {
+      "name": "Rain Drop",
+      "rarity": 0.2
+    },
+    {
+      "name": "Radar",
+      "rarity": 0.2
+    },
+    {
+      "name": "Tooth",
+      "rarity": 0.4
+    },
+    {
+      "name": "Jumbo Pencil",
+      "rarity": 0.2
+    },
+    {
+      "name": "Turkey",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bobble Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Calm Wolf",
+      "rarity": 0.2
+    },
+    {
+      "name": "Rooster",
+      "rarity": 0.5
+    },
+    {
+      "name": "Alarm",
+      "rarity": 0.2
+    },
+    {
+      "name": "Chili",
+      "rarity": 0.4
+    },
+    {
+      "name": "Bottle",
+      "rarity": 0.4
+    },
+    {
+      "name": "Love Lock",
+      "rarity": 0.5
+    },
+    {
+      "name": "Red Deer",
+      "rarity": 0.5
+    },
+    {
+      "name": "Flat Cap",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sumerian Bird",
+      "rarity": 0.4
+    },
+    {
+      "name": "Earflap Hat",
+      "rarity": 0.5
+    },
+    {
+      "name": "Gift Box",
+      "rarity": 0.2
+    },
+    {
+      "name": "Conical Hat",
+      "rarity": 0.5
+    },
+    {
+      "name": "Heater Shield",
+      "rarity": 0.4
+    },
+    {
+      "name": "Coonskin Cap",
+      "rarity": 0.4
+    },
+    {
+      "name": "Horseshoe",
+      "rarity": 0.4
+    },
+    {
+      "name": "Fehu Rune",
+      "rarity": 0.2
+    },
+    {
+      "name": "Divine Falcon",
+      "rarity": 0.2
+    },
+    {
+      "name": "Inguz Rune",
+      "rarity": 0.5
+    },
+    {
+      "name": "Hammerhead",
+      "rarity": 0.5
+    },
+    {
+      "name": "Magic Wand",
+      "rarity": 0.5
+    },
+    {
+      "name": "Pomegranate",
+      "rarity": 0.2
+    },
+    {
+      "name": "Plume Shako",
+      "rarity": 0.4
+    },
+    {
+      "name": "Sun",
+      "rarity": 0.2
+    },
+    {
+      "name": "Candle",
+      "rarity": 0.5
+    },
+    {
+      "name": "Anchor",
+      "rarity": 0.5
+    },
+    {
+      "name": "Top Hat",
+      "rarity": 0.4
+    },
+    {
+      "name": "Shark Knife",
+      "rarity": 0.4
+    },
+    {
+      "name": "Toilet Paper",
+      "rarity": 0.5
+    },
+    {
+      "name": "Sun Lion",
+      "rarity": 0.4
+    },
+    {
+      "name": "Astronaut",
+      "rarity": 0.5
+    },
+    {
+      "name": "Kitsune",
+      "rarity": 0.4
+    },
+    {
+      "name": "Crusader",
+      "rarity": 0.4
+    },
+    {
+      "name": "Paper Lantern",
+      "rarity": 0.5
+    },
+    {
+      "name": "Cicada",
+      "rarity": 0.4
+    },
+    {
+      "name": "Sailor Hat",
+      "rarity": 0.4
+    },
+    {
+      "name": "Planet",
+      "rarity": 0.5
+    },
+    {
+      "name": "Grenade",
+      "rarity": 0.5
+    },
+    {
+      "name": "Dagger",
+      "rarity": 0.4
+    }
+  ]
+}

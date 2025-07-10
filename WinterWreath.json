@@ -1,0 +1,1164 @@
+{
+  "gift": {
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "models": [
+    {
+      "name": "Chocolate",
+      "rarity": 2
+    },
+    {
+      "name": "Mojito",
+      "rarity": 2
+    },
+    {
+      "name": "Dragee",
+      "rarity": 2
+    },
+    {
+      "name": "Candy Cane",
+      "rarity": 0.7
+    },
+    {
+      "name": "Telegram",
+      "rarity": 0.3
+    },
+    {
+      "name": "Raspberry",
+      "rarity": 2
+    },
+    {
+      "name": "Starry Night",
+      "rarity": 2
+    },
+    {
+      "name": "Honey Dew",
+      "rarity": 2
+    },
+    {
+      "name": "Pumpkin",
+      "rarity": 2
+    },
+    {
+      "name": "Spider Web",
+      "rarity": 0.5
+    },
+    {
+      "name": "Bubble Gum",
+      "rarity": 2
+    },
+    {
+      "name": "Glimmer",
+      "rarity": 2
+    },
+    {
+      "name": "Harmony",
+      "rarity": 2
+    },
+    {
+      "name": "Halloween",
+      "rarity": 0.9
+    },
+    {
+      "name": "Sunny Bunny",
+      "rarity": 2
+    },
+    {
+      "name": "Noel Twist",
+      "rarity": 2
+    },
+    {
+      "name": "Gingerbread",
+      "rarity": 0.7
+    },
+    {
+      "name": "Snowman",
+      "rarity": 0.5
+    },
+    {
+      "name": "Tinsel",
+      "rarity": 2
+    },
+    {
+      "name": "Cheesecake",
+      "rarity": 2
+    },
+    {
+      "name": "Winter Tea",
+      "rarity": 0.9
+    },
+    {
+      "name": "Festivity",
+      "rarity": 2
+    },
+    {
+      "name": "Hearth",
+      "rarity": 2
+    },
+    {
+      "name": "Ornament",
+      "rarity": 0.9
+    },
+    {
+      "name": "Seashell",
+      "rarity": 0.3
+    },
+    {
+      "name": "Old Movie",
+      "rarity": 2
+    },
+    {
+      "name": "Flamingo",
+      "rarity": 2
+    },
+    {
+      "name": "Grape",
+      "rarity": 2
+    },
+    {
+      "name": "Fluffy",
+      "rarity": 0.5
+    },
+    {
+      "name": "Hellfire",
+      "rarity": 0.3
+    },
+    {
+      "name": "Berry Yogurt",
+      "rarity": 2
+    },
+    {
+      "name": "Mouse",
+      "rarity": 0.5
+    },
+    {
+      "name": "Night Bell",
+      "rarity": 2
+    },
+    {
+      "name": "Pine Bloom",
+      "rarity": 2
+    },
+    {
+      "name": "Mulled Wine",
+      "rarity": 2
+    },
+    {
+      "name": "Butterfly",
+      "rarity": 0.9
+    },
+    {
+      "name": "Barbie Core",
+      "rarity": 2
+    },
+    {
+      "name": "Golden Bough",
+      "rarity": 1
+    },
+    {
+      "name": "Happy Santa",
+      "rarity": 0.9
+    },
+    {
+      "name": "Candles",
+      "rarity": 0.3
+    },
+    {
+      "name": "Crossbones",
+      "rarity": 0.3
+    },
+    {
+      "name": "Comics",
+      "rarity": 2
+    },
+    {
+      "name": "Lemon Cake",
+      "rarity": 2
+    },
+    {
+      "name": "Holly Leaves",
+      "rarity": 0.7
+    },
+    {
+      "name": "Coloring Book",
+      "rarity": 2
+    },
+    {
+      "name": "Snowball",
+      "rarity": 2
+    },
+    {
+      "name": "Moon Cat",
+      "rarity": 0.5
+    },
+    {
+      "name": "Princess Day",
+      "rarity": 2
+    },
+    {
+      "name": "Negative",
+      "rarity": 2
+    },
+    {
+      "name": "Black Kitty",
+      "rarity": 0.3
+    },
+    {
+      "name": "Fireworks",
+      "rarity": 0.3
+    },
+    {
+      "name": "Everbright",
+      "rarity": 2
+    },
+    {
+      "name": "Rowan Berry",
+      "rarity": 1
+    },
+    {
+      "name": "Cold Night",
+      "rarity": 2
+    },
+    {
+      "name": "Cotton Candy",
+      "rarity": 2
+    },
+    {
+      "name": "Unicorn",
+      "rarity": 2
+    },
+    {
+      "name": "Evergreen",
+      "rarity": 2
+    },
+    {
+      "name": "Frosty",
+      "rarity": 2
+    },
+    {
+      "name": "Berry Meadow",
+      "rarity": 0.3
+    },
+    {
+      "name": "Heart Bell",
+      "rarity": 0.9
+    },
+    {
+      "name": "Blueberry",
+      "rarity": 2
+    },
+    {
+      "name": "Wonderland",
+      "rarity": 0.5
+    },
+    {
+      "name": "Celebration",
+      "rarity": 2
+    },
+    {
+      "name": "Spirit",
+      "rarity": 2
+    },
+    {
+      "name": "Aquamarine",
+      "rarity": 2
+    },
+    {
+      "name": "Neon Sign",
+      "rarity": 0.3
+    },
+    {
+      "name": "Confetti",
+      "rarity": 2
+    },
+    {
+      "name": "Sprinkles",
+      "rarity": 2
+    },
+    {
+      "name": "Festive Pepe",
+      "rarity": 0.5
+    },
+    {
+      "name": "Love Smoke",
+      "rarity": 0.3
+    }
+  ],
+  "backdrops": [
+    {
+      "name": "Pine Green",
+      "rarity": 1
+    },
+    {
+      "name": "Desert Sand",
+      "rarity": 1.2
+    },
+    {
+      "name": "Malachite",
+      "rarity": 1.2
+    },
+    {
+      "name": "Onyx Black",
+      "rarity": 1.5
+    },
+    {
+      "name": "Lemongrass",
+      "rarity": 1.5
+    },
+    {
+      "name": "Pure Gold",
+      "rarity": 1
+    },
+    {
+      "name": "Pacific Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Marine Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Raspberry",
+      "rarity": 1.2
+    },
+    {
+      "name": "Purple",
+      "rarity": 1.2
+    },
+    {
+      "name": "Celtic Blue",
+      "rarity": 1.5
+    },
+    {
+      "name": "Indigo Dye",
+      "rarity": 1.5
+    },
+    {
+      "name": "Moonstone",
+      "rarity": 1.5
+    },
+    {
+      "name": "Sky Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "French Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Copper",
+      "rarity": 1.2
+    },
+    {
+      "name": "Ranger Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Chestnut",
+      "rarity": 1.5
+    },
+    {
+      "name": "Dark Lilac",
+      "rarity": 1
+    },
+    {
+      "name": "Ivory White",
+      "rarity": 1.2
+    },
+    {
+      "name": "Coral Red",
+      "rarity": 1.5
+    },
+    {
+      "name": "Turquoise",
+      "rarity": 1.5
+    },
+    {
+      "name": "Orange",
+      "rarity": 1.5
+    },
+    {
+      "name": "Persimmon",
+      "rarity": 1
+    },
+    {
+      "name": "Neon Blue",
+      "rarity": 1.2
+    },
+    {
+      "name": "Shamrock Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Burgundy",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mustard",
+      "rarity": 1
+    },
+    {
+      "name": "Gunship Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Emerald",
+      "rarity": 1
+    },
+    {
+      "name": "Grape",
+      "rarity": 1
+    },
+    {
+      "name": "Platinum",
+      "rarity": 1.5
+    },
+    {
+      "name": "Dark Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Strawberry",
+      "rarity": 1.5
+    },
+    {
+      "name": "English Violet",
+      "rarity": 1.5
+    },
+    {
+      "name": "Silver Blue",
+      "rarity": 1
+    },
+    {
+      "name": "French Violet",
+      "rarity": 1.2
+    },
+    {
+      "name": "Satin Gold",
+      "rarity": 1.5
+    },
+    {
+      "name": "Chocolate",
+      "rarity": 1.5
+    },
+    {
+      "name": "Deep Cyan",
+      "rarity": 1
+    },
+    {
+      "name": "Steel Grey",
+      "rarity": 1.2
+    },
+    {
+      "name": "Carmine",
+      "rarity": 1.5
+    },
+    {
+      "name": "Light Olive",
+      "rarity": 1
+    },
+    {
+      "name": "Rosewood",
+      "rarity": 1.2
+    },
+    {
+      "name": "Midnight Blue",
+      "rarity": 1
+    },
+    {
+      "name": "Electric Purple",
+      "rarity": 1
+    },
+    {
+      "name": "Rifle Green",
+      "rarity": 1
+    },
+    {
+      "name": "Cappuccino",
+      "rarity": 1.2
+    },
+    {
+      "name": "Azure Blue",
+      "rarity": 1
+    },
+    {
+      "name": "Black",
+      "rarity": 1
+    },
+    {
+      "name": "Old Gold",
+      "rarity": 1.2
+    },
+    {
+      "name": "Camo Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mint Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Fandango",
+      "rarity": 1.2
+    },
+    {
+      "name": "Cobalt Blue",
+      "rarity": 1.5
+    },
+    {
+      "name": "Tomato",
+      "rarity": 1.5
+    },
+    {
+      "name": "Khaki Green",
+      "rarity": 1.5
+    },
+    {
+      "name": "Aquamarine",
+      "rarity": 1
+    },
+    {
+      "name": "Caramel",
+      "rarity": 1.5
+    },
+    {
+      "name": "Cyberpunk",
+      "rarity": 1.2
+    },
+    {
+      "name": "Burnt Sienna",
+      "rarity": 1
+    },
+    {
+      "name": "Battleship Grey",
+      "rarity": 1.2
+    },
+    {
+      "name": "Pacific Cyan",
+      "rarity": 1
+    },
+    {
+      "name": "Sapphire",
+      "rarity": 1
+    },
+    {
+      "name": "Pistachio",
+      "rarity": 1
+    },
+    {
+      "name": "Gunmetal",
+      "rarity": 1.5
+    },
+    {
+      "name": "Roman Silver",
+      "rarity": 1.2
+    },
+    {
+      "name": "Navy Blue",
+      "rarity": 1
+    },
+    {
+      "name": "Fire Engine",
+      "rarity": 1.2
+    },
+    {
+      "name": "Hunter Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Seal Brown",
+      "rarity": 1.5
+    },
+    {
+      "name": "Amber",
+      "rarity": 1.2
+    },
+    {
+      "name": "Electric Indigo",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mystic Pearl",
+      "rarity": 1.2
+    },
+    {
+      "name": "Jade Green",
+      "rarity": 1.2
+    },
+    {
+      "name": "Carrot Juice",
+      "rarity": 1.2
+    },
+    {
+      "name": "Lavender",
+      "rarity": 1.5
+    },
+    {
+      "name": "Mexican Pink",
+      "rarity": 1.5
+    },
+    {
+      "name": "Tactical Pine",
+      "rarity": 1
+    },
+    {
+      "name": "Feldgrau",
+      "rarity": 1.5
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Mayan Moth",
+      "rarity": 0.2
+    },
+    {
+      "name": "Flower",
+      "rarity": 0.2
+    },
+    {
+      "name": "Tamagotchi",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bandana",
+      "rarity": 0.2
+    },
+    {
+      "name": "Guitar",
+      "rarity": 0.2
+    },
+    {
+      "name": "Gingerbread",
+      "rarity": 1.6
+    },
+    {
+      "name": "Doberman",
+      "rarity": 0.2
+    },
+    {
+      "name": "Octopus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Basketball",
+      "rarity": 0.2
+    },
+    {
+      "name": "Turtle",
+      "rarity": 0.2
+    },
+    {
+      "name": "Snowflake",
+      "rarity": 2.4
+    },
+    {
+      "name": "Anchor",
+      "rarity": 0.2
+    },
+    {
+      "name": "Venetian Mask",
+      "rarity": 0.2
+    },
+    {
+      "name": "Pear",
+      "rarity": 0.2
+    },
+    {
+      "name": "Novus Ordo",
+      "rarity": 0.2
+    },
+    {
+      "name": "Nordic Wolf",
+      "rarity": 2.4
+    },
+    {
+      "name": "Jingle Bell",
+      "rarity": 2.4
+    },
+    {
+      "name": "Spider",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sparks",
+      "rarity": 1.6
+    },
+    {
+      "name": "Candle",
+      "rarity": 1.6
+    },
+    {
+      "name": "Fireworks",
+      "rarity": 1.6
+    },
+    {
+      "name": "Candy",
+      "rarity": 2
+    },
+    {
+      "name": "Jörmungandr",
+      "rarity": 0.2
+    },
+    {
+      "name": "Hedgehog",
+      "rarity": 0.2
+    },
+    {
+      "name": "Earflap Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Birthday Cake",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sauron",
+      "rarity": 0.2
+    },
+    {
+      "name": "Leaf",
+      "rarity": 0.2
+    },
+    {
+      "name": "Press Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Snow Angel",
+      "rarity": 2.4
+    },
+    {
+      "name": "Viking",
+      "rarity": 0.2
+    },
+    {
+      "name": "Coffee Bean",
+      "rarity": 0.2
+    },
+    {
+      "name": "Money Bag",
+      "rarity": 0.2
+    },
+    {
+      "name": "Smartphone",
+      "rarity": 0.2
+    },
+    {
+      "name": "Santa Hat",
+      "rarity": 2
+    },
+    {
+      "name": "Bike Helmet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Turkey",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bubbles",
+      "rarity": 0.2
+    },
+    {
+      "name": "Telescope",
+      "rarity": 0.2
+    },
+    {
+      "name": "Shooting Star",
+      "rarity": 2.4
+    },
+    {
+      "name": "Monarch",
+      "rarity": 0.2
+    },
+    {
+      "name": "Chef Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Cavalier Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bug",
+      "rarity": 0.2
+    },
+    {
+      "name": "Dessert",
+      "rarity": 2.4
+    },
+    {
+      "name": "Phoenix",
+      "rarity": 0.2
+    },
+    {
+      "name": "Spellbook",
+      "rarity": 0.2
+    },
+    {
+      "name": "Thunderbird",
+      "rarity": 0.2
+    },
+    {
+      "name": "Tetsubin",
+      "rarity": 0.2
+    },
+    {
+      "name": "Robin Hood",
+      "rarity": 0.2
+    },
+    {
+      "name": "Moon Cross",
+      "rarity": 0.2
+    },
+    {
+      "name": "Genie Lamp",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bone",
+      "rarity": 0.2
+    },
+    {
+      "name": "Winter House",
+      "rarity": 2.4
+    },
+    {
+      "name": "Narcissus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Conical Hat",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ornament",
+      "rarity": 2.4
+    },
+    {
+      "name": "Cherry",
+      "rarity": 0.2
+    },
+    {
+      "name": "Seahorse",
+      "rarity": 0.2
+    },
+    {
+      "name": "Pizza Slice",
+      "rarity": 0.2
+    },
+    {
+      "name": "Mask",
+      "rarity": 0.2
+    },
+    {
+      "name": "War Bonnet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bobby Helmet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Maple Leaf",
+      "rarity": 0.2
+    },
+    {
+      "name": "Lion King",
+      "rarity": 0.2
+    },
+    {
+      "name": "Hamburger",
+      "rarity": 0.2
+    },
+    {
+      "name": "Coat of Arms",
+      "rarity": 0.2
+    },
+    {
+      "name": "Festive Wreath",
+      "rarity": 2.4
+    },
+    {
+      "name": "Christmas Tree",
+      "rarity": 2.4
+    },
+    {
+      "name": "Beer",
+      "rarity": 0.2
+    },
+    {
+      "name": "Magic Wand",
+      "rarity": 1.6
+    },
+    {
+      "name": "Chili Pepper",
+      "rarity": 0.2
+    },
+    {
+      "name": "Apple",
+      "rarity": 0.2
+    },
+    {
+      "name": "Lily",
+      "rarity": 0.2
+    },
+    {
+      "name": "Piggy Bank",
+      "rarity": 2.4
+    },
+    {
+      "name": "Teru Bōzu",
+      "rarity": 0.2
+    },
+    {
+      "name": "Two Katanas",
+      "rarity": 0.2
+    },
+    {
+      "name": "Gem",
+      "rarity": 0.2
+    },
+    {
+      "name": "Moon Eagle",
+      "rarity": 0.2
+    },
+    {
+      "name": "Pineapple",
+      "rarity": 0.2
+    },
+    {
+      "name": "Star",
+      "rarity": 2
+    },
+    {
+      "name": "Mistletoe",
+      "rarity": 2.4
+    },
+    {
+      "name": "Potion",
+      "rarity": 0.2
+    },
+    {
+      "name": "Eggplant",
+      "rarity": 0.2
+    },
+    {
+      "name": "Corn",
+      "rarity": 0.2
+    },
+    {
+      "name": "Oculus",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ice Pop",
+      "rarity": 2
+    },
+    {
+      "name": "Magic Vial",
+      "rarity": 0.2
+    },
+    {
+      "name": "Astronaut",
+      "rarity": 0.2
+    },
+    {
+      "name": "Cocktail",
+      "rarity": 2.4
+    },
+    {
+      "name": "Old Candle",
+      "rarity": 0.2
+    },
+    {
+      "name": "Heart",
+      "rarity": 0.2
+    },
+    {
+      "name": "White Deer",
+      "rarity": 2
+    },
+    {
+      "name": "Flashlight",
+      "rarity": 0.2
+    },
+    {
+      "name": "Propeller Cap",
+      "rarity": 0.2
+    },
+    {
+      "name": "Scissors",
+      "rarity": 0.2
+    },
+    {
+      "name": "Egg",
+      "rarity": 0.2
+    },
+    {
+      "name": "Dragonfly",
+      "rarity": 0.2
+    },
+    {
+      "name": "Coconut",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sea Horse",
+      "rarity": 0.2
+    },
+    {
+      "name": "Deerstalker",
+      "rarity": 0.2
+    },
+    {
+      "name": "Sumerian Bird",
+      "rarity": 0.2
+    },
+    {
+      "name": "Tooth",
+      "rarity": 0.2
+    },
+    {
+      "name": "Cupcake",
+      "rarity": 2
+    },
+    {
+      "name": "Mittens",
+      "rarity": 2
+    },
+    {
+      "name": "Cookie",
+      "rarity": 2.4
+    },
+    {
+      "name": "Chili",
+      "rarity": 0.2
+    },
+    {
+      "name": "Coin Purse",
+      "rarity": 2.4
+    },
+    {
+      "name": "Fish Skeleton",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bishop",
+      "rarity": 0.2
+    },
+    {
+      "name": "Acorn",
+      "rarity": 0.2
+    },
+    {
+      "name": "Tulip",
+      "rarity": 0.2
+    },
+    {
+      "name": "Love Letter",
+      "rarity": 0.2
+    },
+    {
+      "name": "Stocking",
+      "rarity": 2.4
+    },
+    {
+      "name": "Champagne",
+      "rarity": 2.4
+    },
+    {
+      "name": "Turban",
+      "rarity": 0.2
+    },
+    {
+      "name": "New Year’s Eve",
+      "rarity": 1.6
+    },
+    {
+      "name": "Monstera",
+      "rarity": 0.2
+    },
+    {
+      "name": "Fenrir",
+      "rarity": 0.2
+    },
+    {
+      "name": "Shell",
+      "rarity": 0.2
+    },
+    {
+      "name": "Clubs",
+      "rarity": 0.2
+    },
+    {
+      "name": "Spirit Impala",
+      "rarity": 0.2
+    },
+    {
+      "name": "Planet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Hot Drink",
+      "rarity": 2.4
+    },
+    {
+      "name": "Bunny",
+      "rarity": 0.2
+    },
+    {
+      "name": "Shinto Shrine",
+      "rarity": 0.2
+    },
+    {
+      "name": "Gift Box",
+      "rarity": 2
+    },
+    {
+      "name": "Shako",
+      "rarity": 0.2
+    },
+    {
+      "name": "Snowman",
+      "rarity": 1.6
+    },
+    {
+      "name": "Greek Helmet",
+      "rarity": 0.2
+    },
+    {
+      "name": "Eikthyrnir",
+      "rarity": 1.6
+    },
+    {
+      "name": "Lotus Flower",
+      "rarity": 0.2
+    },
+    {
+      "name": "Ice Skates",
+      "rarity": 1.6
+    },
+    {
+      "name": "Chest",
+      "rarity": 2.4
+    },
+    {
+      "name": "Peaked Cap",
+      "rarity": 0.2
+    },
+    {
+      "name": "Flower Cross",
+      "rarity": 0.2
+    },
+    {
+      "name": "Bowtie",
+      "rarity": 1.6
+    },
+    {
+      "name": "Rudolph",
+      "rarity": 2.4
+    }
+  ]
+}
